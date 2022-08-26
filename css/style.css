@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@media screen and (max-width:480px)  {
+    body,html{
+        overflow-x:hidden ;
+    }
+    .hero1{
+        padding-right: 10px;
+        width: 100%;
+        height: 100%;
+    }
+    .paragraph1{
+        font-size: -10px;
+    }
+    .paragraph12{
+        font-size: 5px;
+        margin-right: 20px;
+    }
+}
+
+
+
+
+
+.pic1{
+
+    height: 10%;
+    width: 8%;
+    display: flex;
+    margin-right: 350px;
+    font-family: 'Dosis', sans-serif;
+}
+.hero{
+    height: 70px;
+    width: 70px;
+    
+}
+.pic3{
+  width: 80px;
+  height: 80px;
+}
+.pic4{
+    width: 80px;
+    height: 80px; 
+}
+.paragraph1{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+    font-size: 90px;
+    /* transform: 2s;  */
+}
+.paragraph1:hover{
+    /* color: grey; */
+    /* transform: rotate( 180deg) */
+}
+.hero1{
+    display: flex;
+    margin-left: 65px;
+    margin-top: 65px;
+    /* background-color: blue; */
+    height: 50px;
+    flex-wrap: wrap;
+}
+.pic2{
+    margin-left: 70px;
+    margin-bottom: 50px;
+    
+}
+.hero2{
+    margin-bottom: 40%;
+}
+.pic3{
+margin-bottom: 400px;
+}
+.pic4{
+margin-right: 40px;
+margin-top: 65%;
+}
+.hero3{
+    margin-left: 65px;  
+    margin-top: 250px;
+    /* font-family: 'Dosis', sans-serif; */
+    text-transform: capitalize;
+    font-weight: 300;
+}
+.hero4{
+    margin-left: 65px; 
+    margin-top: 30px;
+    display: flex;
+}
+.hero5{
+    margin-left: 22px;
+}
+.hero6{
+    height: 145px;
+    width: 370px;
+    background-color: rgba(128, 128, 128, 0.657);
+    margin-left: 70px; 
+    margin-top: 40px;
+    border-radius: 10px;
+    display: flex;
+}
+.pic5{
+    height: 100%; 
+    width: 40%;
+    border-radius:10px ;
+    /* margin-bottom: 70px; */   
+}
+.paragraph3{
+    font-size: 14px;
+    /* color: blue; */
+    font-family: 'Dosis', sans-serif;
+    margin-left: 25px;
+    margin-top: 24px;
+}
+.pic6{
+    width: 380px;
+    height: 420px;
+}
+.hero7{
+    display: flex;
+    height: 15%;
+    width: 80%;
+    /* background-color: blueviolet; */
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.hero8{
+   margin-left: 70px;
+   margin-top: 50px;
+}
+.paragraph4{
+    font-weight: 200;
+    font-size: 100px;
+    /* margin-bottom: 30px; */
+}
+.paragraph5{
+    margin-top:10px ;
+     text-transform: capitalize;
+     font-family: 'Dosis', sans-serif;
+     font-weight: 200;
+}
+.hero9{
+    margin-top: 40px;
+}
+.hero10{
+    /* background-color: blue; */
+    display: flex;
+    margin-left: 210px;
+    width: 60%;
+    /* height: 350%; */
+     margin-top: 50px;
+}
+.paragraph7{
+    margin-left: 100px;
+    margin-top: 35px;
+    text-transform: capitalize;
+}
+.paragraph6{
+    font-size: 50px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+}
+.hero11{
+    /* background-color: blue; */
+    margin-left: 3%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.pic7{
+    width: 150px;
+    height: 150px;
+}
+.paragraph8{
+    text-transform: capitalize;
+    font-weight: 300;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.paragraph8a{
+    font-family: 'Dosis', sans-serif;
+    font-weight: lighter;  
+}
+.pic8{
+    width: 150px;
+    height: 150px; 
+}
+.paragraph9{
+    text-transform: capitalize;
+    font-weight: 300;
+    margin-left: 40px;
+    margin-top: 5px; 
+}
+.paragraph9a{
+    font-family: 'Dosis', sans-serif;
+    font-weight: lighter;  
+}
+.pic9{
+    width: 150px;
+    height: 150px; 
+}
+.paragraph10{
+    text-transform: capitalize;
+    font-weight: 300;
+    margin-left: 40px;
+    margin-top: 5px;  
+}
+.paragraph10a{
+    font-family: 'Dosis', sans-serif;
+    font-weight: lighter;   
+}
+.pic10{
+    width: 150px;
+    height: 150px; 
+}
+.paragraph11{
+    text-transform: capitalize;
+    font-weight: 300;
+    margin-left: 40px;
+    margin-top: 5px;  
+}
+.paragraph11a{
+    font-family: 'Dosis', sans-serif;
+    font-weight: lighter;   
+}
+.hero12{
+ /* background-color: blue; */
+ display: flex;
+ margin-left: 210px;
+ width: 60%;
+ /* height: 350%; */
+  margin-top: 50px;
+}
+.paragraph12{
+    font-size: 50px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+}
+.paragraph13{
+    margin-left: 100px;
+    margin-top: 35px;
+    text-transform: capitalize;
+}
+.grid-container{
+    display: grid;
+    grid-gap: 20px;
+    /* background-color: red; */
+    grid-template-columns: 350px 200px;
+    position: relative;
+    margin-left: 78px;
+    grid-auto-rows: minmax(300px, auto);
+    grid-template-areas: 
+    "sidebar"
+    
+}
+.grid1{
+    height: 750px;
+    width: 350px;
+    grid-area: sidebar;
+    background-color: palevioletred;
+}
+.grid2{
+    height: 400px;
+    width: 750px;
+    background-color: yellow;
+}
+.grid3{
+    height: 330px;
+    width: 300px;
+    position: absolute;
+    top: 420px;
+    left: 370px;
+    background-color: green;
+    
+}
+.grid4{
+    height: 330px;
+    width: 430px;
+    position: absolute;
+    top: 420px;
+    left: 690px;
+    background-color: blue;
+}
+.gridone,.gridtwo,.gridthree,.gridfour{
+    height: 100%;
+    width: 100%;
+}
+.carousel-item{
+/* background-color: blue; */
+height: 500px;
+width: 50px;
+}
+.paragraph14{
+  margin-left: 90px;
+  font-size: 50px;
+  font-family: 'Dosis', sans-serif;
+  
+}
+.paragraph15{
+   margin-left: 90px;
+   font-family: 'Dosis', sans-serif;
+}
+.hero13{
+    margin-top: 65px;
+}
+.hero14{
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.paragraph16{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+}
+.quote1{
+    font-size: 50px;
+}
+.hero15{
+    background-color: rgba(0, 0, 0, 0.618);
+    height: 150px;
+    width: 1420px;
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: space-between; */
+    justify-items: center;
+    /* margin-top: 60px; */
+    border-radius: 10px;
+    flex-wrap: nowrap;
+    
+}
+.foot1{
+    height: 70px;
+    width: 70px;
+}
+.hero16{
+    display: flex;
+}
+.paragraph17{
+    margin-top: 10px;
+    font-family: 'Dosis', sans-serif;
+}
+.paragraph18{
+    font-family: 'Dosis', sans-serif;
+}
+.para1{
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+.para2{
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+.para3{
+    color: white; 
+    font-family: 'Dosis', sans-serif;
+}
+.para4{
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+.hero17{
+    /* margin-right: 30px; */
+}
